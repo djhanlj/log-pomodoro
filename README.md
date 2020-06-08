@@ -1,7 +1,5 @@
-# python_utils
+# Log Pomodoro
 
-Useful reusable codes developed in python:
+## Utilizar técnica pomodoro registrando informações dos tempos 
 
-* `sheets.py`: Read or write from google sheets
-* `email.py`: Send email through gmail
-* `facebook.py`: Scrapper to get the best posts from a Facebook page 
+## Pasos para instalação
