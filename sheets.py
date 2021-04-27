@@ -35,7 +35,7 @@ except ImportError:
     flags = None
 
 SCOPES = 'https://www.googleapis.com/auth/spreadsheets'
-CLIENT_SECRET_FILE = 'credentials.json'
+CLIENT_SECRET_FILE = '/home/djair/workspace/log-pomodorocredentials.json'
 APPLICATION_NAME = 'Google Sheets API Python Quickstart'
 
 def get_credentials():
